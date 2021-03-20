@@ -1,0 +1,6 @@
+name: "petdemo"
+displayName: "Pet units"
+author: "Newguy"
+description: "demo of a mod I am making"
+version: "1"
+minGameVersion: 124.1
